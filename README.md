@@ -1,38 +1,76 @@
-# Project Catwalk
+[Overview](#shopoli)
 
-> Client's outdated customer-facing retail web-portal has become significantly outdated and has been proven to be hurting sales numbers.   Project Catwalk comprises a complete redesign of the retail portal designed to address this concern and modernize the site.
+[Create Shopoli from Source Code](#creating-shopoli-app-from-source-code)
 
-## Related Projects
+[Usage](#usage)
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+[Contribute](#contributing)
 
-## Table of Contents
+# <p align="center"> Shopoli </p> <p align="center"><img src="https://i.imgur.com/6uNfTbL.png"  width="200"  height="auto"></p>
 
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+An online retail shopping hub.
+
+Feel like doing some retail therapy? You've come to the right place. Checkout our massive collection of clothing that will lift your spirits. Customizable selections, interactive wardrobe, and real-time feedback through Q&A and reviews. Come check us out!
+
+### Review Source Code
+[Shopoli](https://github.com/clendon/Shopoli)
+
+## Creating Shopoli App from Source Code
+
+- [ ] Obtain the code for this app using the above link or following step:
+	- [ ] Start by cloning:
+```
+git clone https://github.com/clendon/shopoli.git
+```
+
+### Install Dependencies
+
+- [ ] Navigate to the directory where you downloaded this repository process the following commands:
+
+```
+git remote remove origin
+npm install
+npm start
+npm run build
+```
 
 ## Usage
+- [ ] Complete the above steps
+- [ ] Navigate to http://localhost:3000 (or the port you set in 'server/index.js')
+- [ ] Have Fun!
+- [ ] Attach to the [Shopoli API](https://github.com/rfe4-ouray)
+  - [ ] Create a config.js file and enter the credentials that you setup in the API
 
-> Some usage instructions FILL ME IN
+## Contributing
 
-## Requirements
+Feel free to contribute. The requirements are to:
+- [ ] Fork this repo to your own repository.
+- [ ] Clone from your new fork.
+Feel free to make changes in your repository and check for conflicts by running the following scripts, navigating to your localhost port, and ensuring no conflicts or bugs.
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
 ```
+npm start
+npm run build
+```
+- [ ] Update tests as appropriate.
+
+---
+For major changes, please open an issue to discuss what you would like to change.
+
+Contact Clendon by navigating to https://github.com/clendon
+
+---
+
+## License
+
+unlicensed
+
+### Contributors:
+
+[Frank Gauss](https://github.com/tobefranklyspeaking)
+
+[Sean McGovern](https://github.com/smcgovern-proj)
+
+[Harshita Dandu](https://github.com/harshi8)
+
+[Clendon DuRapau](https://github.com/clendon)
