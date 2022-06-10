@@ -67,10 +67,7 @@ unlicensed
 
 ### Contributors:
 
-[Frank Gauss](https://github.com/tobefranklyspeaking)
-
-[Sean McGovern](https://github.com/smcgovern-proj)
-
-[Harshita Dandu](https://github.com/harshi8)
-
+[Frank Gauss](https://github.com/tobefranklyspeaking)<br>
+[Sean McGovern](https://github.com/smcgovern-proj)<br>
+[Harshita Dandu](https://github.com/harshi8)<br>
 [Clendon DuRapau](https://github.com/clendon)
