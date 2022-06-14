@@ -38,7 +38,7 @@ npm run build
 - [ ] Complete the above steps
 - [ ] Navigate to http://localhost:3000 (or the port you set in 'server/index.js')
 - [ ] Have Fun!
-- [ ] Attach to the [Shopoli API](https://github.com/rfe4-ouray)
+- [ ] Attach to the [Shopoli API](https://github.com/clendon/shopoli-API)
   - [ ] Create a config.js file and enter the credentials that you setup in the API
 
 ## Contributing
